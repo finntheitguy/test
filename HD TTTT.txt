@@ -1,0 +1,14 @@
+Điều 7. Bảo mật thông tin 
+7.1.	Các bên   cam kết rằng các phần mềm chương trình liên quan đến dịch vụ thanh toán trực tuyến , các tài liệu, thông tin bao gồm nhưng không giới hạn bởi thông tin về chủ thẻ/khách hàng như tên, địa chỉ, số thẻ, hiệu lực của thẻ, số CVV2, CVC2, PCSC,... của thẻ, thông tin về giao dịch,… và/hoặc các tài liệu, thông tin khác mà các bên có được hoặc biết được trong quá trình cung cấp hàng hoá, dịch vụ là những thông tin mật. Các bên cam kết bảo mật và lưu giữ an toàn các tài liệu, thông tin này trong quá trình thực hiện nghĩa vụ của mình với sự nghiêm túc cao nhất nhằm tránh các đối tượng khác sử dụng những thông tin này để thực hiện những hành vi giả mạo hoặc vi phạm pháp luật ngay cả khi chấm dứt Hợp đồng.  
+7.2. 	Các bên cam kết chịu trách nhiệm bảo mật và lưu trữ an toàn các tài liệu, thông tin mật có được trong quá trình thực hiện Hợp đồng này và ngay cả khi hợp đồng hết hiệu lực, bao gồm nhưng không giới hạn bởi thông tin thẻ, thông tin về chủ thẻ/khách hàng, giao dịch và/hoặc các tài liệu, thông tin khác mà các bên có được hoặc biết được trong quá trình thực hiện Hợp đồng này.
+7.3. 	Các bên cam kết không sử dụng các thông tin mật liên quan đến các điều khoản Hợp đồng, tình hình kinh doanh và các thông tin khác mà các bên chia sẻ trong quá trình hợp tác cho lợi ích riêng của mình và/hoặc để lộ thông tin mật cho một bên nào khác trừ khi có sự đồng ý của các bên còn lại và/hoặc theo yêu cầu của pháp luật. Trong trường hợp có sự tiết lộ những thông tin mật từ phía bên nào, bên đó phải chịu trách nhiệm đối với bất kỳ tổn thất nào xảy ra cho các bên còn lại do việc tiết lộ thông tin đó gây ra.
+7.4. 	Đề phòng trước các hành động giả mạo, OnePay được quyền và ĐVCNTT cam kết đồng ý để OnePay tiết lộ theo yêu cầu của các cơ quan có thẩm quyền các thông tin về ĐVCNTT mà không yêu cầu bất cứ sự bồi thường thiệt hại nào từ phía OnePay do việc tiết lộ thông tin nói trên. 
+ (legal cần review lại, sẽ feedback sau)  
+
+7.5. 	Các bên cam kết không tiết lộ thông tin trực tiếp và/hoặc gián tiếp về các điều khoản, điều kiện của Hợp đồng này; các văn bản sửa đổi, bổ sung (nếu có) của Hợp đồng này cho bất kỳ một bên nào khác trừ trường hợp theo yêu cầu của pháp luật.
+
+
+-----
+
+Nghĩa vụ của ĐVCNTT chấp nhận thanh toán trực tuyến Thẻ quốc tế
+a)  Quản trị cơ sở dữ liệu giao dịch và khách hàng. Theo đó, ĐVCNTT có trách nhiệm (i) áp dụng các biện pháp đảm bảo an toàn dữ liệu, thông tin về giao dịch và tài khoản của khách hàng tuân thủ theo chuẩn PCI DSS của các TCTQT), SSL và các yêu cầu về đảm bảo an toàn dữ liệu theo thông báo bằng văn bản của OnePay trong từng thời kỳ, (ii) tham gia giải pháp xác thực 3-D Secure, cụ thể là Verified by Visa, MasterCard Secure Code, J/Secure, Safekey,... (trong trường hợp triển khai direct/nhập thông tin thẻ trực tiếp)    
